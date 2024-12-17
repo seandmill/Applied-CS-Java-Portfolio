@@ -3,19 +3,16 @@ Welcome to my **Applied CS Java Portfolio**! This repository contains all of the
 
 The projects demonstrate knowledge and growth as I explore CS topics with **Java**. This includes assignments, exercises, and projects that showcase a bit of programming and problem-solving skills.
 
----
-
-## **What You'll Find Here**
+### **What You'll Find Here**
 
 This repository will be updated regularly with:
 
 - **🧰 Exercises**: Smaller programs and practice tasks designed to reinforce specific concepts, such as Algorithms, Data Structures, and OOP principles.
 - **🚀 Projects**: More complex assignments or personal projects.
-- **Documentation**: Each folder will contain a **README** with explanations, instructions, and insights about the project.
+- **📝 Documentation**: Each folder will contain a **README** with explanations, instructions, and insights about the project.
 
----
 
-## 📁 **Repository Structure**
+### 📁 **Repository Structure**
 
 ```plaintext
 applied-cs-java-portfolio/
@@ -33,3 +30,14 @@ applied-cs-java-portfolio/
 │   └── README.md
 │
 └── ... (more projects)
+```
+
+### License
+
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+Let's connect:
+
+- **LinkedIn**: [in/seandmill](https://linkedin.com/in/seandmill)
+- **GitHub**: [seandmill](https://github.com/seandmill)
+- **Email**: seandmill@email.com
