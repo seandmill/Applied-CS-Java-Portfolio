@@ -28,3 +28,6 @@ replay_pid*
 
 # Any and all text files
 *.txt
+
+#Ignore templates
+TEMPLATE.md
