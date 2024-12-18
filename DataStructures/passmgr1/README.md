@@ -49,7 +49,7 @@ PassMe v1.0 is a local password management application built in Java. It provide
 
 ### UI
 
-![Main Menu](images/PassMe1.0_Main_Menu.png)
+![Main Menu](images/PassMe1.0_MainMenu.png)
 
 ---
 
